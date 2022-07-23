@@ -45,7 +45,7 @@ p {
 }
 
 .container {
-    max-width: 500px;
+    max-width: 400px;
     background-color: var(--White);
     padding: 15px 20px;
     border-radius: 12px;
@@ -58,12 +58,12 @@ p {
 }
 
 .container__textbox {
-    padding: 10px 50px;
+    padding: 10px 25px;
     text-align: center;
 }
 
 .container__textbox h2 {
-    margin: 15px 0;
+    margin: 12px 0;
     font-weight: 700;
 }
 
