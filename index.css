@@ -47,23 +47,23 @@ p {
 .container {
     max-width: 500px;
     background-color: var(--White);
-    padding: 12px 12px;
-    border-radius: 8px;
+    padding: 15px 20px;
+    border-radius: 12px;
     overflow: hidden;
 }
 
 .container__image {
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 12px;
 }
 
 .container__textbox {
-    padding: 10px 70px;
+    padding: 10px 50px;
     text-align: center;
 }
 
 .container__textbox h2 {
-    margin: 10px 0;
+    margin: 15px 0;
     font-weight: 700;
 }
 
@@ -94,6 +94,6 @@ p {
     }
 
     .container__textbox {
-        padding: 10px 0;
+        padding: 10px 5px;
     }
 }
