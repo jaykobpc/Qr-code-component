@@ -25,12 +25,15 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-tap-highlight-color: transparent;
     background-color: var(--Light-ray);
-    min-height: calc(100vh - 1px);
+    
+}
 
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    min-height: calc(100vh - 1px);
 }
 
 img {
